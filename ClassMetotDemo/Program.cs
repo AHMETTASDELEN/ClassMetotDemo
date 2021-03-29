@@ -37,7 +37,6 @@ namespace ClassMetotDemo
             }
 
 
-
             Console.WriteLine("MÜŞTERİ İŞLEMLERİ");
             Console.WriteLine("                 ");
 
